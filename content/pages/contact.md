@@ -23,7 +23,7 @@ sections:
         label: Subiect
         default_value: Please select...
         options:
-          - 'My '
+          - My
           - Sponsorship
           - Other
       - input_type: textarea
