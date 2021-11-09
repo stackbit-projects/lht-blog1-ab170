@@ -25,7 +25,7 @@ sections:
         options:
           - My fav book
           - My fav food
-          - 'My fav '
+          - My fav animal
       - input_type: textarea
         name: message
         label: Message
