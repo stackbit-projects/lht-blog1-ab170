@@ -24,7 +24,7 @@ sections:
         default_value: Please select...
         options:
           - My fav book
-          - Sponsorship
+          - 'Mu fav '
           - Other
       - input_type: textarea
         name: message
