@@ -65,9 +65,9 @@ sections:
       szánok szívesen időt, energiát? Mi az, ami miatt éjszakánként gond nélkül
       fennmaradok, mert magával ragad a flow? Eddig keveset töprengtem ezeken a
       kérdéseken, csak ösztönösen lépegettem. Ez kényelmes, mert nem kötelez, de
-      nem érek el vele olyan messzire, hogy már csak messziről integessek annak
-      a Tündének, akit magam mögött hagytam. Mostantól keresnem kell az egy
-      kicsivel nehezebb utat, ami több munkával jár, de nagyobb lehet a jutalom.
+      nem érek el vele olyan távolba, hogy már csak integessek annak a Tündének,
+      akit magam mögött hagytam. Mostantól keresnem kell az egy kicsivel
+      nehezebb utat, ami több munkával jár, de nagyobb lehet a jutalom.
 
 
       Ezért fogom ebben a blogban összegyűjteni ezeket a gondolatokat,
