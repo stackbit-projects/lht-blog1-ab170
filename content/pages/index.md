@@ -29,9 +29,9 @@ sections:
       jobbra, másra, kevesebbre, másra.
 
 
-      > Elgondolkodtató: a lélek te magad vagy, csak csak egy részed, ami egy
-      bizonyos funkciót lát el? Pl. ő szenved, ő örvend, ő sóvárog, ő rejtőzik?
-      Ő az ösztönös tetteidért a felelős? És melyik részed gondolkodik
+      > ###### Elgondolkodtató: a lélek te magad vagy, csak csak egy részed, ami
+      egy bizonyos funkciót lát el? Pl. ő szenved, ő örvend, ő sóvárog, ő
+      rejtőzik? Ő az ösztönös tetteidért a felelős? És melyik részed gondolkodik
       tudatosan, formálja meg a gondolatokat, mondja fel a fejedben a szöveget?
       Milyen a hangszíne? Csupán elekromos kisülések kavalkádja maga a
       gondolkodó énem? Akkor ha elfogy az elektron, megszűnik a gondolat. A test
@@ -46,7 +46,7 @@ sections:
       képzeli el. Elnevezni el kellett, mert abban nagyon sokan egyetértenek,
       hogy van valami több. Az pedig már legyen a tudományban hívők problémája,
       hogy ők hogyan akarják bizonyítani vagy cáfolni a létezését. Nekem elég,
-      hogy tudom, hogy van. 
+      hogy tudom, hogy van.
 
 
       Tehát azt tudom mondani, én nem érzem magam halottnak. Lélegzem és
