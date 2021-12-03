@@ -9,7 +9,7 @@ sections:
     title: 'A káosz nyersanyag, amiből meg lehet alkotni a rendet.'
   - section_id: about
     type: section_content
-    title: About
+    title: ARS POETICA
     content: >
       Sokféle gondolat születik és leli halálát nap mint nap a fejemben. Nincs
       fókuszom, haladok kicsit jobbra, aztán kicsit balra, végül pedig azon
