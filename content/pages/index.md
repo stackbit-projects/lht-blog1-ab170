@@ -18,7 +18,7 @@ sections:
 
 
       Miért szeretnék haladni? A haladás fejlődést jelent, fejlődni pedig
-      muszáj, ez egyfajta élet ösztön, olyan belső sugallat, amelyre hallgatni
+      muszáj, ez egyfajta életösztön, olyan belső sugallat, amelyre hallgatni
       kell, mert ez lehet a létezésünk értelme - már ha szeretnénk mindenképp
       értelemmel felruházni a létünket.. és szeretnénk! Ha nem Istenben hiszel,
       akkor a tudomány észszerűségében. Ha nem a tudományban, akkor a saját
