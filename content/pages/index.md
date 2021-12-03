@@ -4,7 +4,6 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: A KÁOSZ ÉN MAGAM VAGYOK
     content: |
       Vannak rosszlányok, akik ribancok. Na de én jó lány vagyok. Érted.
   - section_id: about
