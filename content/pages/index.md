@@ -24,15 +24,15 @@ sections:
       akkor a tudomány észszerűségében. Ha nem a tudományban, akkor a saját
       létezésednek próbálsz főszerepet osztani. Aki nem talál értelmet, az
       halott. A halál nem úgy néz ki, hogy a kihűlt tested ott hever három
-      méterrel a fekete kemény föld alatt. A halál olyan, hogy hiába lélekzel,
+      méterrel a fekete kemény föld alatt. A halál olyan, hogy hiába lélegzel,
       nincs már benned a lélek, ami reménykedjen, vágyjon valami többre, másra,
       jobbra, másra, kevesebbre, másra.
 
 
-      Tehát azt tudom mondani, én nem érzem magam halottnak. Haladni szeretnék.
-      Megadtam az elmúlt 30 évben magamnak a kiskapukat, mostanra elég erőt
-      gyűjtöttem ahhoz, hogy a főbejáraton dörömböljek. Csak találjam meg,
-      melyik várba akarok betörni :)
+      Tehát azt tudom mondani, én nem érzem magam halottnak. Lélegzem és
+      lélekzem! Lélek zen. Haladni szeretnék. Megadtam az elmúlt 30 évben
+      magamnak a kiskapukat, mostanra elég erőt gyűjtöttem ahhoz, hogy a
+      főbejáraton dörömböljek. Csak találjam meg, melyik várba akarok betörni :)
 
 
       Azt gondoltam, hogy szükséges megfigyelnem a motivációim. Mi érdekel? Mire
