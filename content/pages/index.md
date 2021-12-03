@@ -6,6 +6,7 @@ sections:
     type: section_hero
     content: |
       Vannak rosszlányok, akik ribancok. Na de én jó lány vagyok. Érted.
+    title: 'A káosz nyersanyag, amiből meg lehet alkotni a rendet.'
   - section_id: about
     type: section_content
     title: About
