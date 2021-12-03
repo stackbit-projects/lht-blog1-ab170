@@ -5,7 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     content: |
-      Egy iránytű magamnak magamhoz
+      Egy iránytű magamhoz - magamnak
     title: 'A káosz nyersanyag, amiből meg lehet alkotni a rendet.'
   - section_id: about
     type: section_content
